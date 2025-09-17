@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+After looking at all the files given, I chose Numerical Categorical data because . Vitc is a numerical variable that will be explained by Cult. Cult is a factor variable that is also a categorical variable. That's how we knew which helper file it was.  
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
