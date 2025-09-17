@@ -40,6 +40,7 @@ After looking at all the files given, I chose Numerical Categorical data because
 ```{r}
 plot(VitC~Cult,data=veggy)
 ```
+This boxplot shows the measuring of Vitamin C that has been dependent on in the Cultivation. the C52 is more than C39. There is a large difference.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
